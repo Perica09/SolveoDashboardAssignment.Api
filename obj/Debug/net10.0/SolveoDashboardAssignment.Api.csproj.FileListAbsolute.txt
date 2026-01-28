@@ -131,3 +131,4 @@ c:\Users\pecei\OneDrive\Desktop\SOLVEO TASK\SolveoDashboardAssignment.Api\obj\De
 c:\Users\pecei\OneDrive\Desktop\SOLVEO TASK\SolveoDashboardAssignment.Api\obj\Debug\net10.0\SolveoDashboardAssignment.Api.pdb
 c:\Users\pecei\OneDrive\Desktop\SOLVEO TASK\SolveoDashboardAssignment.Api\obj\Debug\net10.0\SolveoDashboardAssignment.Api.genruntimeconfig.cache
 c:\Users\pecei\OneDrive\Desktop\SOLVEO TASK\SolveoDashboardAssignment.Api\obj\Debug\net10.0\ref\SolveoDashboardAssignment.Api.dll
+C:\Users\pecei\OneDrive\Desktop\SOLVEO TASK\SolveoDashboardAssignment.Api\obj\Debug\net10.0\SolveoDashboardAssignment.Api.sourcelink.json
